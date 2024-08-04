@@ -1,0 +1,25 @@
+.wp-list-table .column-hook {
+    width: 25%;
+}
+.wp-list-table .column-next_run {
+    width: 20%;
+}
+.wp-list-table .column-schedule {
+    width: 15%;
+}
+.wp-list-table .column-args {
+    width: 25%;
+}
+.wp-list-table .column-actions {
+    width: 15%;
+}
+
+#add-cron-event-form {
+    max-width: 600px;
+    margin-bottom: 30px;
+}
+
+#add-cron-event-form input[type="text"],
+#add-cron-event-form select {
+    width: 100%;
+}
