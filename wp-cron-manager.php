@@ -3,7 +3,7 @@
  * Plugin Name: WP Cron Manager
  * Description: Manage WordPress cron events - view, edit, delete, pause, resume, and add new events.
  * Version: 1.0
- * Author: Your Name
+ * Author: Pascal Stier
  */
 
 if (!defined('ABSPATH')) {
